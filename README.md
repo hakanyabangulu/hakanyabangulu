@@ -6,7 +6,7 @@ I am a Computer Engineering student at Adana Alparslan Türkeş Science and Tech
 
 🛠️ Skills
 
-Languages: Java, Python, C, C#, JavaScript
+Languages: Java, Python, C, C# 
 
 Web Development: ASP.NET MVC, SQL Server, HTML, CSS, JavaScript
 
