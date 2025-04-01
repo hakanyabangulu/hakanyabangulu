@@ -2,7 +2,7 @@ Hi, I'm Ahmet Hakan Yabangülü 👋
 
 🚀 About Me
 
-I am a 3rd-year Computer Engineering student at Adana Alparslan Türkeş Science and Technology University.
+I am a Computer Engineering student at Adana Alparslan Türkeş Science and Technology University.
 
 🛠️ Skills
 
