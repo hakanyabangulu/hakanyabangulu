@@ -14,4 +14,4 @@ LinkedIn: www.linkedin.com/in/hygulu
 
 Email: hakanyabangulu@hotmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanyabangulu&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanyabangulu)](https://github.com/anuraghazra/github-readme-stats)
