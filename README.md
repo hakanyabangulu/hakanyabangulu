@@ -14,4 +14,4 @@ LinkedIn: www.linkedin.com/in/hygulu
 
 Email: hakanyabangulu@hotmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanyabangulu&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanyabangulu&layout=compact)
