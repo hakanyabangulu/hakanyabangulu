@@ -1,17 +1,19 @@
 Hi, I'm Ahmet Hakan Yabangülü 👋
 
-🚀 About Me
+AI / Computer Vision Engineer
 
-I am a Computer Engineering student at Adana Alparslan Türkeş Science and Technology University.
+What I work on
+Fine-tuning OCR and computer vision models for real-world documents
+Pixel-level image segmentation for fraud and document-damage detection
+Building datasets from scratch and getting models running in production
+Tech
 
-🛠️ Skills
+Python · PyTorch · TensorFlow · OpenCV · scikit-learn · CVAT · Docker C# · ASP.NET Core · SQL Server
 
-Languages: Java, Python, C, C# 
+Background
 
-📫 Contact Me
+Computer Engineering graduate (2026). Previously AI R&D at Fraud.com, and a Full Stack Developer internship at Fusion Software and Consulting.
 
-LinkedIn: www.linkedin.com/in/hygulu
-
-Email: hakanyabangulu@hotmail.com
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanyabangulu&layout=compact)
+Reach me
+LinkedIn
+hakanyabangulu@hotmail.com
