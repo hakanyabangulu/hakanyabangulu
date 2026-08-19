@@ -15,5 +15,7 @@ Background
 Computer Engineering graduate (2026). Previously AI R&D at Fraud.com, and a Full Stack Developer internship at Fusion Software and Consulting.
 
 Reach me
+
 linkedin.com/in/hygulu
+
 hakanyabangulu@hotmail.com
